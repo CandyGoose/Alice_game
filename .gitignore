@@ -1,0 +1,79 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Avoid uploading Auto Generated and system files
+# User-specific settings
+UserSettings/
+
+# Crash Reports
+sysinfo.txt
+
+# ===================== #
+# Visual Studio/VSCode #
+# ===================== #
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity specific metadata files
+*.pidb.meta
+*.pdb
+*.mdb
+*.opendb
+
+# Rider IDE
+.idea/
+*.iml
+*.iws
+
+# ================= #
+# Mac OS generated #
+# ================= #
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+__MACOSX
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# ============ #
+# Build Files #
+# ============ #
+Builds/
+*.apk
+*.unitypackage
+
+# ================= #
+# Asset meta files #
+# ================= #
+*.unitypackage
+*.meta
+
+# ========================== #
+# Generated files and caches #
+# ========================== #
+/Assets/Plugins/*/Android/libs/
+/Assets/Plugins/*/iOS/
+
+
+.vs
